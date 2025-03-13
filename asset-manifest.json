@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/greetings-app/static/css/main.e6c13ad2.css",
+    "main.js": "/greetings-app/static/js/main.3485a286.js",
+    "static/js/453.9d0cda41.chunk.js": "/greetings-app/static/js/453.9d0cda41.chunk.js",
+    "static/media/backgroundImage.png": "/greetings-app/static/media/backgroundImage.343a5d2eacbb4ae71a5d.png",
+    "static/media/design2.png": "/greetings-app/static/media/design2.013465c843f7deba68d8.png",
+    "static/media/design1.png": "/greetings-app/static/media/design1.017e7b63ff59dae3c1d1.png",
+    "static/media/logo.png": "/greetings-app/static/media/logo.9a890eda555a3cffbe73.png",
+    "index.html": "/greetings-app/index.html",
+    "main.e6c13ad2.css.map": "/greetings-app/static/css/main.e6c13ad2.css.map",
+    "main.3485a286.js.map": "/greetings-app/static/js/main.3485a286.js.map",
+    "453.9d0cda41.chunk.js.map": "/greetings-app/static/js/453.9d0cda41.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.3485a286.js"
+  ]
+}
